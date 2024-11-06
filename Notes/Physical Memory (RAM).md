@@ -1,3 +1,5 @@
+Also called **primary memory** 
+
 Volatile memory and physical
 
 Ex: 16 GB RAM

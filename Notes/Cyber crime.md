@@ -12,4 +12,4 @@ Examples of cyber crime:
 - Cyber extortion
 - [[DoS attacks]]
 - [[Hacker]] system penetrations
-- Planting of [[malware]]
+- Planting of [[Malware]]

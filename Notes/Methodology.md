@@ -6,5 +6,6 @@ Steps to follow to perform correctly a task.
 - [[Tree - List traversal Method]]
 - [[Digital Evidence Collection Methodology]]
 - [[Fingerprint - pattern search Method]]
+- [[Volatile Memory Acquisition Methods]]
 
 #methodology

@@ -8,14 +8,17 @@ Those tools are used to help collect and analyse [[Digital evidence]]. Those too
 - WMFT
 - PTFinder
 - [[PoolFinder]]
+- [[FTK Imager]]
+- [[Data-Dumper]]
+- [[PMDump]]
 
 Examples of forensics tools:
-- FTK
 - Directory Snoop
 - [[Wireshark]]
 - WinHex
 - Autopsy
 - [[file CLI Tool]]
 - [[Strings CLI tool]]
+- [[Symantec]] runs a monitoring service that keeps a searchable database of malicious URLs: https://sitereview.symantec.com/
 
 #hacking-tools #forensics #cybersecurity
