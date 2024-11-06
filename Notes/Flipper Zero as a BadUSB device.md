@@ -9,7 +9,7 @@ The payload **must be in the .txt format** using the scripting language. [[Flipp
 **Via [[USB]]:**
 1. Turn on the **Flipper Zero**
 2. Connect it using a **USB cable** to the target
-3. Go to **Main Menu -> [[BadUSB]]**
+3. Go to **Main Menu -> [[Bad USB]]**
 4. Select the **payload** and press **OK**
 5. Go to **config**
 6. *If needed change the keyboard layout*
@@ -18,7 +18,7 @@ The payload **must be in the .txt format** using the scripting language. [[Flipp
 
 **Via [[Bluetooth (BLE)]]:**
 1. Activate Bluetooth on your Flipper Zero **Main Menu -> Settings -> Bluetooth**
-2. Go to **Main Menu -> [[BadUSB]]**
+2. Go to **Main Menu -> [[Bad USB]]**
 3. Select the **payload**
 4. Go to **Config**
 5. *If needed change the keyboard layout*
