@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "66c2732c77fea0b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c4733697b873ac2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1b9a08804dd64336",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Memory forensics.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Memory forensics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "12c913403c3b75c1",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9b31ec09514a02e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1ba7a52ada9985a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "dfb4b5efb593f0f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "baa6da9fdfd1d7d9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "a5bf46a977a08387",
+    "type": "split",
+    "children": [
+      {
+        "id": "024487bdccd5ac8e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "44fa20047cfdae03",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "base64 CLI Tool.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for base64 CLI Tool"
+            }
+          },
+          {
+            "id": "7c81e9105834c907",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "f8ceaa35d12f100a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "01a966a6fb47ad4e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1b9a08804dd64336",
+  "lastOpenFiles": [
+    "Fingerprint - pattern search Method.md",
+    "Kernel.md",
+    "ETHREAD.md",
+    "Forensics tools.md",
+    "Memory forensics.md",
+    "Tree - List traversal Method.md",
+    "EPROCESS.md",
+    "Windows.md",
+    "Microsoft.md",
+    "GAFAM.md",
+    "Process Environment Block (PEB).md",
+    "Images/windows-data-struc.png",
+    "base64 CLI Tool.md",
+    "Volatility.md",
+    "Methodology.md",
+    "IA-32 Architecture.md",
+    "Virtual Address Translation Method.md",
+    "Fingerprint / pattern searches.md",
+    "Fingerprint ",
+    "Memory.md",
+    "Python.md",
+    "Computer Architecture.md",
+    "Computer forensics.md",
+    "Digital forensics.md",
+    "Sources.md",
+    "Untitled.md",
+    "Locard's Exchange Principle.md",
+    "Page Table Entry (PTE).md",
+    "Images/pagearchi.png",
+    "Image",
+    "Images/ia-32-translation.png",
+    "Images/vas-example.png",
+    "Images/ex-forensics-memory-addresses.png",
+    "Images/qflipper3.png",
+    "Images/qflipper2.png",
+    "Images/qflipper1.png",
+    "Images/common-watermark-example.png",
+    "Images/magic-triangle.png",
+    "TIFF",
+    "JPEG",
+    "Images"
+  ]
+}

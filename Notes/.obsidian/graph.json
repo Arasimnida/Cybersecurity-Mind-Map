@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#hacking ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "tag:#forensics  ",
+      "color": {
+        "a": 1,
+        "rgb": 11538896
+      }
+    },
+    {
+      "query": "tag:#hacking-tools  ",
+      "color": {
+        "a": 1,
+        "rgb": 15662848
+      }
+    },
+    {
+      "query": "tag:#sources  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "tag:#cybersecurity  ",
+      "color": {
+        "a": 1,
+        "rgb": 13050
+      }
+    },
+    {
+      "query": "tag:#computer-system  ",
+      "color": {
+        "a": 1,
+        "rgb": 0
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.2260485795815139,
+  "close": true
+}

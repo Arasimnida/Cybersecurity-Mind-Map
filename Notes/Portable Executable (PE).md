@@ -1,0 +1,1 @@
+Encodes Win executables .exe .dll

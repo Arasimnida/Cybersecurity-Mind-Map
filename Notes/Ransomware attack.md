@@ -1,0 +1,1 @@
+We all files are encrypted due to a [[Ransomware]].

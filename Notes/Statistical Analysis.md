@@ -1,0 +1,1 @@
+Using [[Machine Learning Model]] we can perform statistical analysis based on statistic. For example when a [[Least Significant Bit (LSB)]] algorithm is used there is a modification of the normal distribution.

@@ -1,0 +1,1 @@
+Representation of an information using [[Bits]].
